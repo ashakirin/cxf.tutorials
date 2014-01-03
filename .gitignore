@@ -1,0 +1,24 @@
+# Mac
+.DS_Store
+
+# Maven
+target
+.class
+.jar
+
+# Eclipse
+.metadata
+.checkstyle
+.classpath
+.pmd
+.project
+.ruleset
+.settings
+bin
+
+# IntelliJ IDEA
+*.idea
+*.iml
+
+#emacs
+*~
